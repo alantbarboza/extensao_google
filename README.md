@@ -7,6 +7,9 @@
 - Navegue até a pasta da extensão em seu computador e clique em "Selecionar pasta".
 - A extensão será carregada e adicionada ao navegador.
 
+&nbsp;
+&nbsp;
+
 - Extensão Raposa  
 ![Extensão Raposa](https://github.com/alantbarboza/extensao_google/raw/main/raposaFoto.png)
   - Funções:
