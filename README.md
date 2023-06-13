@@ -1,6 +1,6 @@
 # extensao_google
 
-##Como usar?
+### Como usar?
 - Acesse a página de extensões digitando chrome://extensions/ na barra de endereços.
 - No canto superior direito da página de extensões, ative o "Modo do desenvolvedor".
 - Clique no botão "Carregar sem compactação".
